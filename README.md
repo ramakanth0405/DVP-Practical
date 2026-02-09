@@ -39,10 +39,29 @@ This repository contains the practical code codebase and exercises for the **Dat
 * **DataFrame Operations:** General manipulation using Pandas to prepare datasets for presentation.
 
 ---
+## 📂 Repository Structure
+```
+├── 📁 01_Basic_Plots            # Intro to Line, Bar, and Scatter plots
+├── 📁 02_Advanced_Visuals       # Heatmaps, Treemaps, and EDA
+├── 📁 03_Statistical_Analysis   # Boxplots, Aggregation, and Normalization
+├── 📁 practical                 # Core practical assignments                 
+├── 📄 README.md                 # Project overview and instructions
+└── 📄 requirements.txt          # Python dependencies
+```
 
 ## 🚀 Getting Started
 
-To use these notebooks, ensure you have the required libraries installed. You can install them using pip:
+To ensure a smooth experience with these practicals, follow the steps below to set up your environment.
 
+### 1. Prerequisites
+Ensure you have **Python 3.8+** installed on your system.
+
+### 2. Clone the Repository
+Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command:
 ```bash
-pip install pandas seaborn matplotlib plotly notebook
+git clone [https://github.com/ramakanth0405/DVP-Practical.git](https://github.com/ramakanth0405/DVP-Practical.git)
+
+cd DVP-Practical
+
+pip install -r requirements.txt
+
