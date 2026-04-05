@@ -18,6 +18,8 @@ This repository contains the practical code codebase and exercises for the **Dat
     * `seaborn`
     * `matplotlib`
     * `plotly`
+    * `dash`
+    * `squarify`
 
 ## 📂 Repository Contents
 
